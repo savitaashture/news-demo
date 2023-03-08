@@ -1,6 +1,6 @@
 # News Application Demo (^.^)
 
-Learn how to develop web applications with Go by building a News application.
+Learn how to develop web applications with Go by building a News application change.
 
 Here's what the [completed application](https://freshman-news.herokuapp.com/)
 looks like:
